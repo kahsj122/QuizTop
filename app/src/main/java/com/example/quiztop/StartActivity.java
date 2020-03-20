@@ -157,7 +157,7 @@ public class StartActivity extends AppCompatActivity {
 
 
 
-                ScoreQuiz=0;
+                ScoreQuiz=200;
 
 
 
